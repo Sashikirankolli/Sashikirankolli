@@ -1,0 +1,9 @@
+{
+	"name": "skolliDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f2dcceb6-f28c-4095-8e33-12b906de8164",
+		"tenantId": "c7eae6f6-2ebf-4b01-b1a1-bca593c6f2ca"
+	}
+}
